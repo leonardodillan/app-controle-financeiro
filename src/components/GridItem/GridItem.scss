@@ -1,0 +1,15 @@
+$align: start;
+
+
+tr {
+    td {
+        padding-top: 15px;
+        text-align: $align;
+        word-break: break-all;
+
+        svg {
+            width: 18px;
+            height: 18px;
+        }
+    }
+}
